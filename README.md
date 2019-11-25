@@ -14,3 +14,5 @@ Tapşırıq.
      https://www.w3schools.com/css/css_list.asp
      
   2. image1- kodlaşdırın, əlavə çalışmaq istəyənlər image2-ni də kodlaşdırsın.
+
+  Qeyd: menu hissəsini ul tag-i ilə edin, sinifdə yazdığımız "social link"lər kimi
